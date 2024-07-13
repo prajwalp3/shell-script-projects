@@ -4,12 +4,12 @@
 API_URL="https://api.github.com"
 
 # GitHub username and personal access token
-USERNAME=$prajwalp3
-TOKEN=$
+USERNAME=$username
+TOKEN=$token
 
 # User and Repository information
-REPO_OWNER=$prajwalp3
-REPO_NAME=$shell_script_projects
+REPO_OWNER=$repouser
+REPO_NAME=$reponame;
 
 
 # Function to make a GET request to the GitHub API
